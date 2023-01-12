@@ -2,7 +2,7 @@
 ## This is my first lab. I'm so exciting
 *Hello, World!*
 
-Here is the [my website](https://giantdwarfren.github.io/cse15l-lab-reports/) 
+Here is the [my page](https://giantdwarfren.github.io/cse15l-lab-reports/) 
 
 Here is the ![my username image]("username.png")
 
